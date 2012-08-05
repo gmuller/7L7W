@@ -1,0 +1,6 @@
+n := Random value(1, 100) integerMax
+n println
+
+while(File standardInput readLine != n,
+"Thats not it" println
+)

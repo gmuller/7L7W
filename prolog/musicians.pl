@@ -1,0 +1,9 @@
+musician(chick_corea, synthesizer, jazz).
+musician(slash, guitar, rock).
+musician(danny_carey, drums, rock).
+musician(grant_muller, drums, rock).
+musician(grant_muller, synthesizer, industrial).
+musician(dimebag_darrel, guitar, rock).
+musician(vinny_paul, drums, rock).
+musician(al_jourgensen, guitar, industrial).
+musician(martin_atkins, drums, industrial).
